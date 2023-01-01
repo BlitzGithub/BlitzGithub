@@ -2,7 +2,7 @@
   Hi, This is Ayush Kumar (BlitzGithub).<br/>
   Software Developer || Front-end Developer || Programmer || Experienced in JavaScript and React/Next Tech Stack || Space Enthusiast
 </div>
-<br/>============================================================================================
+<br/>========================================================================================
 <div>
   <br/>🛠️ Languages and Tools :
   <div align="center">
@@ -18,7 +18,7 @@
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" title="Github" width="50" height="50"/>&nbsp;&nbsp;
   </div>
 </div>
-<br/>============================================================================================
+<br/>========================================================================================
 <div>
   <br/>📏 Statistics :
   <div align="center">
