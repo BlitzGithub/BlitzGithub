@@ -26,6 +26,6 @@
     <br/><br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=BlitzGithub&show_icons=true&theme=tokyonight"/></a>
     <br/><br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlitzGithub"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlitzGithub&layout=compact"/></a>
   </div>
 </div>
