@@ -18,6 +18,7 @@
     <img src="https://www.clipartmax.com/png/middle/89-894960_js-discord-bot-logo-node-js-and-react-js.png" alt="NodeJS" title="NodeJS" width="50" height="50"/>&nbsp;&nbsp;
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" title="Github" width="50" height="50"/>&nbsp;&nbsp;
     <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="Github" title="Github" width="50" height="50"/>&nbsp;&nbsp;
+    <img src="https://a.storyblok.com/f/88751/1702x2049/619c584101/svelte_logo.png" alt="Svelte" title="Svelte" width="40" height="50"/>&nbsp;&nbsp;
   </div>
 </div>
 <br/>========================================================================================
